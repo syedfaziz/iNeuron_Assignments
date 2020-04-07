@@ -1,2 +1,2 @@
 # iNeuron_Assignments
-Contains the iNeuron Assignments solved by Syed
+Contains the iNeuron Assignments solved by me
