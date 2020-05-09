@@ -1,7 +1,7 @@
 # iNeuron_Assignments
-##### Questions:
-  ###### Contains assignments questions in pdf format:
+### Questions:
+  #### Contains assignments questions in pdf format:
   
-##### Solutions:
-  ###### Comtains the solutions to the assigmnments
+### Solutions:
+  #### Comtains the solutions to the assigmnments
   
